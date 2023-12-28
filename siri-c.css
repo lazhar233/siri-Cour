@@ -1,0 +1,32 @@
+body{
+    /* background-image:url(https://www.radiofrance.fr/s3/cruiser-production/2016/12/79c7aebb-4e7c-405d-9705-d702c13a755a/870x489_gettyimages-660582997.webp) ;
+     */
+     background-color: rgb(77, 67, 67);
+}
+
+
+
+
+.for{
+    color: rgb(0, 0, 0);
+    background-color: rgba(154, 148, 140, 0.66);
+    padding: 4px;
+    margin-top: 600px;
+    text-align: center;
+
+}
+.AUTO{
+    text-align: center;
+}
+
+.exo1,
+.exo2{
+     color: rgb(75, 0, 128);
+
+}
+h3 {
+   background-color: rgb(224, 234, 234);
+   padding:10px ;
+   width: 50%;
+   margin: auto;
+}
